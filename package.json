@@ -1,0 +1,15 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "node js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ehsaan Changa",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "requests": "^0.3.0"
+  }
+}
